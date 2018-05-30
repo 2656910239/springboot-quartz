@@ -1,0 +1,1 @@
+此包下的两个配置是利用spring的对定时调度任务的支持，需要开启@EnableScheduling 注解
